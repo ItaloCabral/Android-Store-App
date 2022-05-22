@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CustomTabBar",
+    "slug": "CustomTabBar",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "CustomTabBar"
+}
